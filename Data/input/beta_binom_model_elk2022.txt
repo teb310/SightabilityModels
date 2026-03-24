@@ -1,0 +1,50 @@
+model
+{
+    bo ~ dnorm(0.00000E+00, 0.1)
+    bvoc ~ dnorm(0.00000E+00, 0.1)
+    for (i in 1:R) {
+        logitg[i] <- bo + bvoc * x.tilde[i]
+        g.tilde[i] <- exp(logitg[i])/(1 + exp(logitg[i]))
+        z.tilde[i] ~ dbern(g.tilde[i])
+    }
+    for (j in 1:years) {
+        for (i in 1:stratums) {
+            alpha.voc[i, j] ~ dgamma(1, 0.01)
+            beta.voc[i, j] ~ dgamma(1, 0.01)
+        }
+    }
+    for (k in 1:Ngroups) {
+        x[k] ~ dbeta(alpha.voc[h[k], yr[k]], beta.voc[h[k], yr[k]])  
+            T(0.00000E+00, 0.999)
+    }
+    for (m in 1:years) {
+        for (p in 1:stratums) {
+            loglam[p, m] ~ dnorm(0.00000E+00, 0.1)  T(-10, 10)
+            lam[p, m] <- exp(loglam[p, m])
+        }
+    }
+    for (q in 1:years) {
+        for (r in 1:stratums) {
+            a[r, q] ~ dgamma(1, 0.01)
+            b[r, q] ~ dgamma(1, 0.01)
+        }
+    }
+    for (s in 1:Nsubunits.yr) {
+        psi[s] ~ dbeta(a[h.plots[s], yr.plots[s]], b[h.plots[s], 
+            yr.plots[s]])  T(1.00000E-04, 0.99)
+    }
+    for (t in 1:Ngroups) {
+        q[t] ~ dbin(psi[subunits[t]], 1)
+        g[t] <- exp(bo + bvoc * x[t])/(1 + exp(bo + bvoc * x[t]))
+        pseen[t] <- q[t] * g[t]
+        z[t] ~ dbin(pseen[t], 1)
+        ym1[t] ~ dpois(lam[h[t], yr[t]])
+        y[t] <- ym1[t] + 1
+        taus[t] <- q[t] * y[t]
+    }
+for (u in 1:Nsubunits.yr) {
+t[u] <- scalars[u,1]
+d[u] <- scalars[u,2]
+tau.hat[u] <- sum(taus[c(t[u]:d[u])])
+}
+}

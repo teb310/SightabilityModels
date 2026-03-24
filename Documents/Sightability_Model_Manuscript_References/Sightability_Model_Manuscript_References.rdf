@@ -1,0 +1,1646 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://www.jstor.org/stable/2987937?origin=crossref">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00390526"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altman</foaf:surname>
+                        <foaf:givenName>D. G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bland</foaf:surname>
+                        <foaf:givenName>J. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_165"/>
+        <dc:title>Measurement in Medicine: The Analysis of Method Comparison Studies</dc:title>
+        <dc:date>09/1983</dc:date>
+        <z:shortTitle>Measurement in Medicine</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/2987937?origin=crossref</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:51:38</dcterms:dateSubmitted>
+        <bib:pages>307</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00390526">
+        <prism:volume>32</prism:volume>
+        <dc:title>The Statistician</dc:title>
+        <dc:identifier>DOI 10.2307/2987937</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>The Statistician</dcterms:alternative>
+        <dc:identifier>ISSN 00390526</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_165">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/165/Altman and Bland - 1983 - Measurement in Medicine The Analysis of Method Co.pdf"/>
+        <dc:title>Altman and Bland - 1983 - Measurement in Medicine The Analysis of Method Co.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://dx.plos.org/10.1371/journal.pone.0190706">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ArchMiller</foaf:surname>
+                        <foaf:givenName>Althea A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dorazio</foaf:surname>
+                        <foaf:givenName>Robert M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>St. Clair</foaf:surname>
+                        <foaf:givenName>Katherine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fieberg</foaf:surname>
+                        <foaf:givenName>John R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mohan</foaf:surname>
+                        <foaf:givenName>Jacqueline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_118"/>
+        <dc:title>Time series sightability modeling of animal populations</dc:title>
+        <dc:date>2018-1-12</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dx.plos.org/10.1371/journal.pone.0190706</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:52:59</dcterms:dateSubmitted>
+        <bib:pages>e0190706</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>13</prism:volume>
+        <dc:title>PLOS ONE</dc:title>
+        <dc:identifier>DOI 10.1371/journal.pone.0190706</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>PLoS ONE</dcterms:alternative>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_118">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/118/ArchMiller et al. - 2018 - Time series sightability modeling of animal popula.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0190706&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:53:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/096228029900800204">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0962-2802,%201477-0334"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bland</foaf:surname>
+                        <foaf:givenName>J Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altman</foaf:surname>
+                        <foaf:givenName>Douglas G</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_166"/>
+        <dc:title>Measuring agreement in method comparison studies</dc:title>
+        <dcterms:abstract>Agreement between two methods of clinical measurement can be quantified using the differences between observations made using the two methods on the same subjects. The 95% limits of agreement, estimated by mean difference 1.96 standard deviation of the differences, provide an interval within which 95% of differences between measurements by the two methods are expected to lie. We describe how graphical methods can be used to investigate the assumptions of the method and we also give confidence intervals. We extend the basic approach to data where there is a relationship between difference and magnitude, both with a simple logarithmic transformation approach and a new, more general, regression approach. We discuss the importance of the repeatability of each method separately and compare an estimate of this to the limits of agreement. We extend the limits of agreement approach to data with repeated measurements, proposing new estimates for equal numbers of replicates by each method on each subject, for unequal numbers of replicates, and for replicated data collected in pairs, where the underlying value of the quantity being measured is changing. Finally, we describe a nonparametric approach to comparing methods.</dcterms:abstract>
+        <dc:date>04/1999</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/096228029900800204</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:53:10</dcterms:dateSubmitted>
+        <bib:pages>135-160</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0962-2802,%201477-0334">
+        <prism:volume>8</prism:volume>
+        <dc:title>Statistical Methods in Medical Research</dc:title>
+        <dc:identifier>DOI 10.1177/096228029900800204</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Stat Methods Med Res</dcterms:alternative>
+        <dc:identifier>ISSN 0962-2802, 1477-0334</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_166">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/166/Bland and Altman - 1999 - Measuring agreement in method comparison studies.pdf"/>
+        <dc:title>Bland and Altman - 1999 - Measuring agreement in method comparison studies.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.wiley.com/10.1890/0012-9658(2006)87[842:ESRAAB]2.0.CO;2">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0012-9658"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dorazio</foaf:surname>
+                        <foaf:givenName>Robert M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Royle</foaf:surname>
+                        <foaf:givenName>J. Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Söderström</foaf:surname>
+                        <foaf:givenName>Bo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Glimskär</foaf:surname>
+                        <foaf:givenName>Anders</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_164"/>
+        <dc:title>Estimating species richness and accumulation by modeling species occurrence and detectability</dc:title>
+        <dc:date>04/2006</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doi.wiley.com/10.1890/0012-9658(2006)87[842:ESRAAB]2.0.CO;2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:53:26</dcterms:dateSubmitted>
+        <bib:pages>842-854</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0012-9658">
+        <prism:volume>87</prism:volume>
+        <dc:title>Ecology</dc:title>
+        <dc:identifier>DOI 10.1890/0012-9658(2006)87[842:ESRAAB]2.0.CO;2</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Ecology</dcterms:alternative>
+        <dc:identifier>ISSN 0012-9658</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_164">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/164/Dorazio et al. - 2006 - Estimating species richness and accumulation by mo.pdf"/>
+        <dc:title>Dorazio et al. - 2006 - Estimating species richness and accumulation by mo.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13239">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2041-210X,%202041-210X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Efford</foaf:surname>
+                        <foaf:givenName>Murray G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boulanger</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCrea</foaf:surname>
+                        <foaf:givenName>Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_122"/>
+        <dc:title>Fast evaluation of study designs for spatially explicit capture–recapture</dc:title>
+        <dcterms:abstract>Abstract
+            
+              
+                
+                  Spatially explicit capture–recapture methods use data from the detection of marked animals at known points in space to estimate animal population density without bias from edge effects. Detection is by means of stationary devices such as traps, automatic cameras or DNA hair snags. Data collection is often expensive, and it is not obvious how to optimize the frequency of sampling and the spatial layout of detectors. Results from a pilot study may be extrapolated by simulation to predict the effectiveness of different configurations of multiple detectors, but simulation is slow and requires technical expertise.
+                
+                
+                  
+                    Another approach for evaluating novel designs is to compute intermediate variables such as the expected number of detected individuals E(
+                    n
+                    ) and expected number of recapture events E(
+                    r
+                    ), and to seek relationships between these variables and quantities of interest such as precision and power.
+                  
+                
+                
+                  
+                    We present formulae for the expected counts and power. For many scenarios the relative standard error (
+                    RSE
+                    ) of estimated density is close to
+                    
+                    , and for maximum precision E(
+                    n
+                    ) ≈ E(
+                    r
+                    ). We compare the approximation for
+                    
+                    with more rigorous results from simulation.
+                  
+                
+                
+                  
+                    Computation of E(
+                    n
+                    ) and E(
+                    r
+                    ) is deterministic and much faster than simulation, so it is readily included in interactive software for designing studies with enough power to answer ecological questions. The related approximation for
+                    
+                    is adequate for many purposes.</dcterms:abstract>
+        <dc:date>09/2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13239</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:53:41</dcterms:dateSubmitted>
+        <bib:pages>1529-1535</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2041-210X,%202041-210X">
+        <prism:volume>10</prism:volume>
+        <dc:title>Methods in Ecology and Evolution</dc:title>
+        <dc:identifier>DOI 10.1111/2041-210X.13239</dc:identifier>
+        <prism:number>9</prism:number>
+        <dcterms:alternative>Methods Ecol Evol</dcterms:alternative>
+        <dc:identifier>ISSN 2041-210X, 2041-210X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/122/Efford and Boulanger - 2019 - Fast evaluation of study designs for spatially exp.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13239</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:53:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12078">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>4</prism:volume>
+                <dc:title>Methods in Ecology and Evolution</dc:title>
+                <dc:identifier>DOI 10.1111/2041-210X.12078</dc:identifier>
+                <prism:number>9</prism:number>
+                <dcterms:alternative>Methods Ecol Evol</dcterms:alternative>
+                <dc:identifier>ISSN 2041-210X, 2041-210X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fieberg</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alexander</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tse</foaf:surname>
+                        <foaf:givenName>Scarlett</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>St. Clair</foaf:surname>
+                        <foaf:givenName>Katie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Spencer</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_167"/>
+        <dc:title>Abundance estimation with sightability data: a Bayesian data augmentation approach</dc:title>
+        <dcterms:abstract>Summary
+            
+              
+                
+                  
+                    Steinhorst &amp; Samuel (
+                    Biometrics
+                    1989;
+                    45
+                    , 415–425) showed how logistic regression models, fit to detection data collected from radiocollared animals, can be used to estimate and adjust for visibility bias in wildlife population surveys. Population abundance is estimated using a modified
+                    H
+                    orvitz–
+                    T
+                    hompson (m
+                    HT
+                    ) estimator in which counts of observed animal groups are divided by their estimated inclusion probabilities (determined by plot‐level sampling probabilities and detection probabilities estimated from radiocollared individuals). The sampling distribution of the m
+                    HT
+                    estimator is typically right‐skewed, and statistical inference relies on asymptotic theory that may not be appropriate with small samples.
+                  
+                
+                
+                  
+                    We develop an alternative, Bayesian model‐based approach which we apply to data collected from moose (
+                    
+                      A
+                      lces alces
+                    
+                    ) in
+                    M
+                    innesota. We model detection probabilities as a function of visual obstruction, informed by data from 124 sightability trials involving radiocollared moose. These sightability data, along with counts of moose from a stratified random sample of aerial plots, are used to estimate moose abundance in 2006 and 2007 and the log rate of change between the 2 years.
+                  
+                
+                
+                  
+                    Unlike traditional design‐based estimators, model‐based estimators require assumptions regarding stratum‐specific distributions of the detection covariates, the number of animal groups per plot and the number of animals per animal group. We demonstrate numerical and graphical methods for assessing the validity of these assumptions and compare two different models for the distribution of the number of animal groups per plot, a beta‐binomial model and a logistic‐
+                    t
+                    model.
+                  
+                
+                
+                  
+                    Estimates of the log rate of change (95%
+                    CI
+                    ) between 2006 and 2007 were −0·21 (−0·53, 0·12), −0·24 (−0·64, 0·16), and −0·25 (−0·64, 0·15) for the beta‐binomial model, logistic‐
+                    t
+                    model and m
+                    HT
+                    estimator, respectively. Plots of posterior‐predictive distributions and goodness‐of‐fit measures both suggest the beta‐binomial model provides a better fit to the data.
+                  
+                
+                
+                  
+                    The
+                    B
+                    ayesian framework offers many inferential advantages, including the ability to incorporate prior information and perform exact inference with small samples. More importantly, the model‐based approach provides additional flexibility when designing and analysing multi‐year surveys (e.g. rotational sampling designs could be used to focus sampling effort in important areas, and random effects could be used to share information across years).</dcterms:abstract>
+        <dc:date>09/2013</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Abundance estimation with sightability data</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12078</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:53:54</dcterms:dateSubmitted>
+        <bib:pages>854-864</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_167">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/167/Fieberg et al. - 2013 - Abundance estimation with sightability data a Bay.pdf"/>
+        <dc:title>Fieberg et al. - 2013 - Abundance estimation with sightability data a Bay.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/30.1-2.81">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0006-3444,%201464-3510"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kendall</foaf:surname>
+                        <foaf:givenName>M. G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_168"/>
+        <dc:title>A new measure of rank correlation</dc:title>
+        <dc:date>1938-06-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/30.1-2.81</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:54:29</dcterms:dateSubmitted>
+        <bib:pages>81-93</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0006-3444,%201464-3510">
+        <prism:volume>30</prism:volume>
+        <dc:title>Biometrika</dc:title>
+        <dc:identifier>DOI 10.1093/biomet/30.1-2.81</dc:identifier>
+        <prism:number>1-2</prism:number>
+        <dcterms:alternative>Biometrika</dcterms:alternative>
+        <dc:identifier>ISSN 0006-3444, 1464-3510</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_168">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/168/Kendall - 1938 - A new measure of rank correlation.pdf"/>
+        <dc:title>Kendall - 1938 - A new measure of rank correlation.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/2532051?origin=crossref">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0006341X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>Lawrence I-Kuei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_169"/>
+        <dc:title>A Concordance Correlation Coefficient to Evaluate Reproducibility</dc:title>
+        <dc:date>03/1989</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/2532051?origin=crossref</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:54:43</dcterms:dateSubmitted>
+        <bib:pages>255</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0006341X">
+        <prism:volume>45</prism:volume>
+        <dc:title>Biometrics</dc:title>
+        <dc:identifier>DOI 10.2307/2532051</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Biometrics</dcterms:alternative>
+        <dc:identifier>ISSN 0006341X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_169">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/169/Lin - 1989 - A Concordance Correlation Coefficient to Evaluate .pdf"/>
+        <dc:title>Lin - 1989 - A Concordance Correlation Coefficient to Evaluate .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/0008068320080301">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0008-0683,%202456-6462"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Little</foaf:surname>
+                        <foaf:givenName>Roderick J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_127"/>
+        <dc:title>Weighting and Prediction in Sample Surveys</dc:title>
+        <dcterms:abstract>A fundamental technique in survey sampling is to weight included units by the inverse of their probability of inclusion, which may be known (as in the case sampling weights) or estimated (as in the case of nonresponse weights or post-stratification) . The technique is closely associated with the design-based approach to survey inference, with the idea that units in the sample are representing a certain number of units in the population. I discuss weighting from a modelling perspective. Some common misconceptions of weighting will be addressed, including the idea that modelers can ignore the sampling weights, or that weighting necessarily reduces bias at the expense of increased variance, or that units entering the calculation of nonresponse weights should be weighted by their sampling weights. A robust model-based perspective suggests that selection weights cannot be ignored , but there may be better ways of incorporating them in the inference than via the standard Horvitz-Thompson estimator and its variants.</dcterms:abstract>
+        <dc:date>09/2008</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/0008068320080301</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:54:52</dcterms:dateSubmitted>
+        <bib:pages>147-167</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0008-0683,%202456-6462">
+        <prism:volume>60</prism:volume>
+        <dc:title>Calcutta Statistical Association Bulletin</dc:title>
+        <dc:identifier>DOI 10.1177/0008068320080301</dc:identifier>
+        <prism:number>3-4</prism:number>
+        <dcterms:alternative>Calcutta Statistical Association Bulletin</dcterms:alternative>
+        <dc:identifier>ISSN 0008-0683, 2456-6462</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_127">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/127/Little - 2008 - Weighting and Prediction in Sample Surveys.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://biostats.bepress.com/cgi/viewcontent.cgi?article=1083&amp;context=umichbiostat</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:54:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1984-46702013000200008&amp;lng=en&amp;nrm=iso&amp;tlng=en">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1984-4689"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pacheco</foaf:surname>
+                        <foaf:givenName>Marcelle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kajin</foaf:surname>
+                        <foaf:givenName>Maja</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gentile</foaf:surname>
+                        <foaf:givenName>Rosana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zangrandi</foaf:surname>
+                        <foaf:givenName>Priscilla L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vieira</foaf:surname>
+                        <foaf:givenName>Marcus V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cerqueira</foaf:surname>
+                        <foaf:givenName>Rui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_129"/>
+        <dc:title>A comparison of abundance estimators for small mammal populations</dc:title>
+        <dc:date>04/2013</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1984-46702013000200008&amp;lng=en&amp;nrm=iso&amp;tlng=en</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:55:52</dcterms:dateSubmitted>
+        <bib:pages>182-190</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1984-4689">
+        <prism:volume>30</prism:volume>
+        <dc:title>Zoologia (Curitiba)</dc:title>
+        <dc:identifier>DOI 10.1590/S1984-46702013000200008</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Zoologia (Curitiba)</dcterms:alternative>
+        <dc:identifier>ISSN 1984-4689</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_129">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/129/Pacheco et al. - 2013 - A comparison of abundance estimators for small mam.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.scielo.br/j/zool/a/x78HgQZkbST4GZ5kGDcNVgj/?lang=en&amp;format=pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:55:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-429-11307-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Chapman and Hall/CRC</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gelman</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carlin</foaf:surname>
+                        <foaf:givenName>John B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stern</foaf:surname>
+                        <foaf:givenName>Hal S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunson</foaf:surname>
+                        <foaf:givenName>David B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vehtari</foaf:surname>
+                        <foaf:givenName>Aki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rubin</foaf:surname>
+                        <foaf:givenName>Donald B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Bayesian Data Analysis</dc:title>
+        <dc:date>2013-11-27</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.taylorfrancis.com/books/9781439898208</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:56:24</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1201/b16018</dc:description>
+        <dc:identifier>ISBN 978-0-429-11307-9</dc:identifier>
+        <prism:edition>0</prism:edition>
+    </bib:Book>
+    <bib:Article rdf:about="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2618">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1051-0761,%201939-5582"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmidt</foaf:surname>
+                        <foaf:givenName>Greta M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Graves</foaf:surname>
+                        <foaf:givenName>Tabitha A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pederson</foaf:surname>
+                        <foaf:givenName>Jordan C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carroll</foaf:surname>
+                        <foaf:givenName>Sarah L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_132"/>
+        <dc:title>Precision and bias of spatial capture–recapture estimates: A multi‐site, multi‐year Utah black bear case study</dc:title>
+        <dcterms:abstract>Abstract
+            
+              Spatial capture–recapture (SCR) models are powerful analytical tools that have become the standard for estimating abundance and density of wild animal populations. When sampling populations to implement SCR, the number of unique individuals detected, total recaptures, and unique spatial relocations can be highly variable. These sample sizes influence the precision and accuracy of model parameter estimates. Testing the performance of SCR models with sparse empirical data sets typical of low‐density, wide‐ranging species can inform the threshold at which a more integrated modeling approach with additional data sources or additional years of monitoring may be required to achieve reliable, precise parameter estimates. Using a multi‐site, multi‐year Utah black bear (
+              Ursus americanus
+              ) capture–recapture data set, we evaluated factors influencing the uncertainty of SCR structural parameter estimates, specifically density, detection, and the spatial scale parameter, sigma. We also provided some of the first SCR density estimates for Utah black bear populations, which ranged from 3.85 to 74.33 bears/100 km
+              2
+              . Increasing total detections decreased the uncertainty of density estimates, whereas an increasing number of total recaptures and individuals with recaptures decreased the uncertainty of detection and sigma estimates, respectively. In most cases, multiple years of data were required for precise density estimates (&lt;0.2 coefficient of variation [CV]). Across study areas there was an average decline in CV of 0.07 with the addition of another year of data. One sampled population with very high estimated bear density had an atypically low number of spatial recaptures relative to total recaptures, apparently inflating density estimates. A complementary simulation study used to assess estimate bias suggested that when &lt;30% of recaptured individuals were spatially recaptured, density estimates were unreliable and ranged widely, in some cases to &gt;3 times the simulated density. Additional research could evaluate these requirements for other density scenarios. Large numbers of individuals detected, numbers of spatial recaptures, and precision alone may not be sufficient indicators of parameter estimate reliability. We provide an evaluation of simple summary statistics of capture–recapture data sets that can provide an early signal of the need to alter sampling design or collect auxiliary data before model implementation to improve estimate precision and accuracy.</dcterms:abstract>
+        <dc:date>07/2022</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Precision and bias of spatial capture–recapture estimates</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2618</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:56:35</dcterms:dateSubmitted>
+        <bib:pages>e2618</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1051-0761,%201939-5582">
+        <prism:volume>32</prism:volume>
+        <dc:title>Ecological Applications</dc:title>
+        <dc:identifier>DOI 10.1002/eap.2618</dc:identifier>
+        <prism:number>5</prism:number>
+        <dcterms:alternative>Ecological Applications</dcterms:alternative>
+        <dc:identifier>ISSN 1051-0761, 1939-5582</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_132">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/132/Schmidt et al. - 2022 - Precision and bias of spatial capture–recapture es.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eap.2618</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:56:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/2531486?origin=crossref">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>45</prism:volume>
+                <dc:title>Biometrics</dc:title>
+                <dc:identifier>DOI 10.2307/2531486</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>Biometrics</dcterms:alternative>
+                <dc:identifier>ISSN 0006341X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steinhorst</foaf:surname>
+                        <foaf:givenName>R. Kirk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Samuel</foaf:surname>
+                        <foaf:givenName>Michael D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_170"/>
+        <dc:title>Sightability Adjustment Methods for Aerial Surveys of Wildlife Populations</dc:title>
+        <dc:date>06/1989</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/2531486?origin=crossref</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:56:44</dcterms:dateSubmitted>
+        <bib:pages>415</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_170">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/170/Steinhorst and Samuel - 1989 - Sightability Adjustment Methods for Aerial Surveys.pdf"/>
+        <dc:title>Steinhorst and Samuel - 1989 - Sightability Adjustment Methods for Aerial Surveys.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://projecteuclid.org/journals/statistical-science/volume-36/issue-4/Revisiting-the-GelmanRubin-Diagnostic/10.1214/20-STS812.full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0883-4237"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vats</foaf:surname>
+                        <foaf:givenName>Dootika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knudson</foaf:surname>
+                        <foaf:givenName>Christina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_135"/>
+        <dc:title>Revisiting the Gelman–Rubin Diagnostic</dc:title>
+        <dc:date>2021-11-1</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://projecteuclid.org/journals/statistical-science/volume-36/issue-4/Revisiting-the-GelmanRubin-Diagnostic/10.1214/20-STS812.full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:56:54</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0883-4237">
+        <prism:volume>36</prism:volume>
+        <dc:title>Statistical Science</dc:title>
+        <dc:identifier>DOI 10.1214/20-STS812</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Statist. Sci.</dcterms:alternative>
+        <dc:identifier>ISSN 0883-4237</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_135">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/135/Vats and Knudson - 2021 - Revisiting the Gelman–Rubin Diagnostic.pdf"/>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1812.09384</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:56:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/25097616">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0022-541X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fieberg</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Giudice</foaf:surname>
+                        <foaf:givenName>John</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_137"/>
+        <dc:title>Variance of Stratified Survey Estimators with Probability of Detection Adjustments</dc:title>
+        <dcterms:abstract>Estimates of wildlife population sizes are frequently constructed by combining counts of observed animals from a stratified survey of aerial sampling units with an estimated probability of detecting animals. Unlike traditional stratified survey designs, stratum-specific estimates of population size will be correlated if a common detection model is used to adjust counts for undetected animals in all strata. We illustrate this concept in the context of aerial surveys, considering 2 cases: 1) a single-detection parameter is estimated under the assumption of constant detection probabilities, and 2) a logistic-regression model is used to estimate heterogeneous detection probabilities. Naïve estimates of variance formed by summing stratum-specific estimates of variance may result in significant bias, particularly if there are a large number of strata, if detection probabilities are small, or if estimates of detection probabilities are imprecise.</dcterms:abstract>
+        <dc:date>2008</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/25097616</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:59:45</dcterms:dateSubmitted>
+        <dc:description>Publisher: [Wiley, Wildlife Society]</dc:description>
+        <bib:pages>837-844</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0022-541X">
+        <prism:volume>72</prism:volume>
+        <dc:title>The Journal of Wildlife Management</dc:title>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 0022-541X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_137">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/137/Fieberg and Giudice - 2008 - Variance of Stratified Survey Estimators with Prob.pdf"/>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/25097616.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 18:59:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/2246093">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>Statistical Science</dc:title>
+                <prism:number>4</prism:number>
+                <dc:identifier>ISSN 0883-4237</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gelman</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rubin</foaf:surname>
+                        <foaf:givenName>Donald B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_139"/>
+        <dc:title>Inference from Iterative Simulation Using Multiple Sequences</dc:title>
+        <dcterms:abstract>The Gibbs sampler, the algorithm of Metropolis and similar iterative simulation methods are potentially very helpful for summarizing multivariate distributions. Used naively, however, iterative simulation can give misleading answers. Our methods are simple and generally applicable to the output of any iterative simulation; they are designed for researchers primarily interested in the science underlying the data and models they are analyzing, rather than for researchers interested in the probability theory underlying the iterative simulations themselves. Our recommended strategy is to use several independent sequences, with starting points sampled from an overdispersed distribution. At each step of the iterative simulation, we obtain, for each univariate estimand of interest, a distributional estimate and an estimate of how much sharper the distributional estimate might become if the simulations were continued indefinitely. Because our focus is on applied inference for Bayesian posterior distributions in real problems, which often tend toward normality after transformations and marginalization, we derive our results as normal-theory approximations to exact Bayesian inference, conditional on the observed simulations. The methods are illustrated on a random-effects mixture model applied to experimental measurements of reaction times of normal and schizophrenic patients.</dcterms:abstract>
+        <dc:date>1992</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/2246093</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:03:43</dcterms:dateSubmitted>
+        <dc:description>Publisher: Institute of Mathematical Statistics</dc:description>
+        <bib:pages>457-472</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_139">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/139/Gelman and Rubin - 1992 - Inference from Iterative Simulation Using Multiple.pdf"/>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/2246093.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:03:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-12-405888-0">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Academic Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kruschke</foaf:surname>
+                        <foaf:givenName>John K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_278"/>
+        <dc:title>Doing Bayesian data analysis: a tutorial with R, JAGS, and Stan</dc:title>
+        <dcterms:abstract>Provides an accessible approach to Bayesian data analysis, as material is explained clearly with concrete examples. The book begins with the basics, including essential concepts of probability and random sampling, and gradually progresses to advanced hierarchical modeling methods for realistic data</dcterms:abstract>
+        <dc:date>2015</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>Doing Bayesian data analysis</z:shortTitle>
+        <z:libraryCatalog>BnF ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>519.542</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-12-405888-0</dc:identifier>
+        <prism:edition>Edition 2</prism:edition>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_278">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/278/Doing_Bayesian_Analysis_Kruschke.zip"/>
+        <dc:title>Doing_Bayesian_Analysis_Kruschke.zip</dc:title>
+        <link:type>application/x-zip-compressed</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/23361294">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>77</prism:volume>
+                <dc:title>The Journal of Wildlife Management</dc:title>
+                <prism:number>2</prism:number>
+                <dc:identifier>ISSN 0022-541X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McCorquodale</foaf:surname>
+                        <foaf:givenName>Scott M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knapp</foaf:surname>
+                        <foaf:givenName>Shannon M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Davison</foaf:surname>
+                        <foaf:givenName>Michael A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bohannon</foaf:surname>
+                        <foaf:givenName>Jennifer S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Danilson</foaf:surname>
+                        <foaf:givenName>Chris D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Madsen</foaf:surname>
+                        <foaf:givenName>W. Chris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_142"/>
+        <dc:title>Mark-Resight and Sightability Modeling of a Western Washington Elk Population</dc:title>
+        <dcterms:abstract>The North Cascades (Nooksack) elk (Cervus elaphus) population declined during the 1980s, prompting a closure to state and tribal hunting in 1997 and an effort to restore the herd to former abundance. In 2005, we began a study to assess the size of the elk population, judge the effectiveness of restoration efforts, and develop a practical monitoring strategy. We concurrently evaluated 2 monitoring approaches: sightability correction modeling and mark-resight modeling. We collected data during February—April helicopter surveys and fit logistic regression models to predict the sightability of elk groups based on group and environmental variables. We used an information-theoretic criterion to compare 9 models of varying complexity; the best model predicted sightability of elk groups based on 1) transformed (log 2 ) group size, 2) forest canopy cover (%), and 3) a categorical activity variable (active vs. bedded). The sightability model indicated relatively steady and modest herd growth during 2006—2011, but estimates were less than minimum-known-alive counts. We also used the logit-normal mixed effects (LNME) mark-resight model to generate estimates of total elk population size and the sizes of the adult female and branch-antlered male subpopulations. We explored 15 LNME models to predict total population size and 12 models to predict subpopulations. Our results indicated individual heterogeneity in resighting probabilities and variation in resighting probabilities across sexes and some years. Model-averaged estimates of total population size increased from 639 (95% CI = 570—706) in spring 2006 to 1,248 (95% CI = 1,094—1,401) in 2011. We estimated the adult female subpopulation increased from 381 (95% CI = 338—424) in spring 2006 to 573 (95% CI = 507—639) by 2011. The branch-antlered male subpopulation estimates increased from 87 (95% CI = 54—119) to 180 (95% CI = 118—241) from spring 2006 to spring 2011. The LNME model estimates were greater than sightability model estimates and minimum-known-alive counts. We concluded that mark-resight performed better and was a viable approach for monitoring this small elk population and possibly others with similar characteristics (i.e., small population and landscape scales), but this approach requires periodic marking of elk; we estimated mark-resight costs would be about 40% greater than sightability model application costs. The utility of sightability-correction modeling was limited by a high proportion of groups with low detectability on our densely forested landscape.</dcterms:abstract>
+        <dc:date>2013</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/23361294</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:06:23</dcterms:dateSubmitted>
+        <dc:description>Publisher: [Wiley, Wildlife Society]</dc:description>
+        <bib:pages>359-371</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_142">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/142/McCORQUODALE et al. - 2013 - Mark-Resight and Sightability Modeling of a Wester.pdf"/>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/23361294.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:06:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/3783614">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0091-7648"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noyes</foaf:surname>
+                        <foaf:givenName>James H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Bruce K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Riggs</foaf:surname>
+                        <foaf:givenName>Robert A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schlegel</foaf:surname>
+                        <foaf:givenName>Michael W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coggins</foaf:surname>
+                        <foaf:givenName>Victor L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_144"/>
+        <dc:title>Assessing Aerial Survey Methods to Estimate Elk Populations: A Case Study</dc:title>
+        <dcterms:abstract>Balancing the need for accurate estimates of wild ungulate populations with survey costs continues to challenge wildlife biologists. We present a case study to evaluate the feasibility of using stratified sampling and sightability models to estimate the population size and composition of elk (Cervus elaphus) in northeast Oregon in 1997. We conducted 4 helicopter sightability surveys (3 winter and one spring) and one fixed-wing survey in spring. We estimated population sizes ±90% confidence intervals as 1,964±310, 1,825±133, and 1,768±334 for the winter surveys, and 2,275±383 for the spring survey. Population estimates did not differ (P=0.28) among the 4 helicopter surveys. We also applied a sightability correction model to the observed numbers on the fixed-wing survey and estimated a spring population of 2,071±155. Raw counts of fixed-wing (n=1,747) and helicopter (n=1,743) surveys in spring were nearly identical, but due to the sightability correction, results from the helicopter survey were adjusted upward by 31%, whereas results from the fixed-wing survey increased 19%. Observed calf:cow ratios during spring were similar between the fixed-wing survey (27.7:100) and the helicopter survey (27.31:100). Confidence intervals associated with helicopter sightability model estimates of bull:cow ratios ranged from 33% to 85%. Properly designed fixed-wing surveys flown under appropriate conditions may provide population and calf:cow ratio estimates equivalent to helicopter surveys at significant cost savings.</dcterms:abstract>
+        <dc:date>2000</dc:date>
+        <z:shortTitle>Assessing Aerial Survey Methods to Estimate Elk Populations</z:shortTitle>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/3783614</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:07:53</dcterms:dateSubmitted>
+        <dc:description>Publisher: [Wiley, Wildlife Society]</dc:description>
+        <bib:pages>636-642</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0091-7648">
+        <prism:volume>28</prism:volume>
+        <dc:title>Wildlife Society Bulletin (1973-2006)</dc:title>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 0091-7648</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_144">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/144/Noyes et al. - 2000 - Assessing Aerial Survey Methods to Estimate Elk Po.pdf"/>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/3783614.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:07:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/3830560">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0084-0173"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pollock</foaf:surname>
+                        <foaf:givenName>Kenneth H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nichols</foaf:surname>
+                        <foaf:givenName>James D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brownie</foaf:surname>
+                        <foaf:givenName>Cavell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hines</foaf:surname>
+                        <foaf:givenName>James E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_146"/>
+        <dc:title>Statistical Inference for Capture-Recapture Experiments</dc:title>
+        <dcterms:abstract>This monograph presents a detailed, practical exposition on the design, analysis, and interpretation of capture-recapture studies. The Lincoln-Petersen model (Chapter 2) and the closed population models (Chapter 3) are presented only briefly because these models have been covered in detail elsewhere. The Jolly-Seber open population model, which is central to the monograph, is covered in detail in Chapter 4. In Chapter 5 we consider the &quot;enumeration&quot; or &quot;calendar of captures&quot; approach, which is widely used by mammalogists and other vertebrate ecologists. We strongly recommend that it be abandoned in favor of analyses based on the Jolly-Seber model. We consider 2 restricted versions of the Jolly-Seber model. We believe the first of these, which allows losses (mortality or emigration) but not additions (births or immigration), is likely to be useful in practice. Another series of restrictive models requires the assumptions of a constant survival rate or a constant survival rate and a constant capture rate for the duration of the study. Detailed examples are given that illustrate the usefulness of these restrictions. There often can be a substantial gain in precision over Jolly-Seber estimates. In Chapter 5 we also consider 2 generalizations of the Jolly-Seber model. The temporary trap response model allows newly marked animals to have different survival and capture rates for 1 period. The other generalization is the cohort Jolly-Seber model. Ideally all animals would be marked as young, and age effects considered by using the Jolly-Seber model on each cohort separately. In Chapter 6 we present a detailed description of an age-dependent Jolly-Seber model, which can be used when 2 or more identifiable age classes are marked. In Chapter 7 we present a detailed description of the &quot;robust&quot; design. Under this design each primary period contains several secondary sampling periods. We propose an estimation procedure based on closed and open population models that allows for heterogeneity and trap response of capture rates (hence the name robust design). We begin by considering just 1 age class and then extend to 2 age classes. When there are 2 age classes it is possible to distinguish immigrants and births. In Chapter 8 we give a detailed discussion of the design of capture-recapture studies. First, capture-recapture is compared to other possible sampling procedures. Next, the design of capture-recapture studies to minimize assumption violations is considered. Finally, we consider the precision of parameter estimates and present figures on proportional standard errors for a variety of initial parameter values to aid the biologist about to plan a study. A new program, JOLLY, has been written to accompany the material on the Jolly-Seber model (Chapter 4) and its extensions (Chapter 5). Another new program, JOLLYAGE, has been written for a special case of the age-dependent model (Chapter 6) where there are only 2 age classes. In Chapter 9 a brief description of the different versions of the 2 programs is given. Chapter 10 gives a brief description of some alternative approaches that were not considered in this monograph. We believe that an excellent overall view of capture-recapture models may be obtained by reading the monograph by White et al. (1982) emphasizing closed models and then reading this monograph where we concentrate on open models. The important recent monograph by Burnham et al. (1987) could then be read if there were interest in the comparison of different populations.</dcterms:abstract>
+        <dc:date>1990</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/3830560</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:08:20</dcterms:dateSubmitted>
+        <dc:description>Publisher: [Wiley, Wildlife Society]</dc:description>
+        <bib:pages>3-97</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0084-0173">
+        <dc:title>Wildlife Monographs</dc:title>
+        <prism:number>107</prism:number>
+        <dc:identifier>ISSN 0084-0173</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_146">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/146/Pollock et al. - 1990 - Statistical Inference for Capture-Recapture Experi.pdf"/>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/3830560.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:08:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://alcesjournal.org/index.php/alces/article/view/539">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2293-6629"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Quayle</foaf:surname>
+                        <foaf:givenName>James F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacHutchon</foaf:surname>
+                        <foaf:givenName>A. Grant</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jury</foaf:surname>
+                        <foaf:givenName>Douglas N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_148"/>
+        <dc:title>Modelling moose sightability in south-central British Columbia</dc:title>
+        <dcterms:abstract>We developed a model to correct sightability bias in aerial surveys of moose in the southern interior of British Columbia. Sightability trials were conducted by searching sample blocks where radio-collared moose were recorded and used as independent variables for a logistic regression model of sightability. Univariate analysis revealed that percent vegetative cover, percent snow cover, and daily temperature all significantly influenced the probability of detecting a moose. However, multivariate analysis retained only vegetative cover as teh significant variable to predict sightability probability. This mirrors the results of analysis of similar trials done in western Wyoming that used the same independent variables as well as 6 additional ones. Two logistic regression models were developed for moose sightability; one based on 5 classes of vegetative cover and a second, less accurate, based on 3 classes of vegetative cover.</dcterms:abstract>
+        <dc:date>2001-01-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>alcesjournal.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://alcesjournal.org/index.php/alces/article/view/539</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:09:57</dcterms:dateSubmitted>
+        <dc:rights>Copyright (c) 2021</dc:rights>
+        <dc:description>Number: 1</dc:description>
+        <bib:pages>43-54</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2293-6629">
+        <prism:volume>37</prism:volume>
+        <dc:title>Alces: A Journal Devoted to the Biology and Management of Moose</dc:title>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 2293-6629</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_148">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/148/Quayle et al. - 2001 - MODELING MOOSE SIGHTABILITY IN SOUTH-CENTRAL BRITI.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://alcesjournal.org/index.php/alces/article/download/539/621</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:09:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.jstor.org/stable/27594230">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1061-8600"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Royle</foaf:surname>
+                        <foaf:givenName>J. Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dorazio</foaf:surname>
+                        <foaf:givenName>Robert M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Link</foaf:surname>
+                        <foaf:givenName>William A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_150"/>
+        <dc:title>Analysis of Multinomial Models with Unknown Index Using Data Augmentation</dc:title>
+        <dcterms:abstract>Multinomial models with unknown index (&quot;sample size&quot;) arise in many practical settings. In practice, Bayesian analysis of such models has proved difficult because the dimension of the parameter space is not fixed, being in some cases a function of the unknown index. We describe a data augmentation approach to the analysis of this class of models that provides for a generic and efficient Bayesian implementation. Under this approach, the data are augmented with all-zero detection histories. The resulting augmented dataset is modeled as a zero-inflated version of the complete-data model where an estimable zero-inflation parameter takes the place of the unknown multinomial index. Interestingly, data augmentation can be justified as being equivalent to imposing a discrete uniform prior on the multinomial index. We provide three examples involving estimating the size of an animal population, estimating the number of diabetes cases in a population using the Rasch model, and the motivating example of estimating the number of species in an animal community with latent probabilities of species occurrence and detection.</dcterms:abstract>
+        <dc:date>2007</dc:date>
+        <z:libraryCatalog>JSTOR</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.jstor.org/stable/27594230</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:10:42</dcterms:dateSubmitted>
+        <dc:description>Publisher: [American Statistical Association, Taylor &amp; Francis, Ltd., Institute of Mathematical Statistics, Interface Foundation of America]</dc:description>
+        <bib:pages>67-85</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1061-8600">
+        <prism:volume>16</prism:volume>
+        <dc:title>Journal of Computational and Graphical Statistics</dc:title>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 1061-8600</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_150">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/150/Royle et al. - 2007 - Analysis of Multinomial Models with Unknown Index .pdf"/>
+        <dc:title>JSTOR Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstor.org/stable/pdfplus/10.2307/27594230.pdf?acceptTC=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:10:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://www.env.gov.bc.ca/fw/wildlife/management-issues/docs/roosevelt_elk_management_plan.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Province of British Columbia</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ministry of Forests, Lands and Natural Resource Operations</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_151"/>
+        <dc:title>A Management Plan for Roosevelt Elk in  British Columbia</dc:title>
+        <dc:date>2015</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.env.gov.bc.ca/fw/wildlife/management-issues/docs/roosevelt_elk_management_plan.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:12:02</dcterms:dateSubmitted>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_151">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/151/roosevelt_elk_management_plan.pdf"/>
+        <dc:title>roosevelt_elk_management_plan.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.env.gov.bc.ca/fw/wildlife/management-issues/docs/roosevelt_elk_management_plan.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:12:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_153">
+        <z:itemType>dataset</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>GeoBC</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Digital Elevation Model for British Columbia - CDED - 1:250,000</dc:title>
+        <dc:date>2014</dc:date>
+    </rdf:Description>
+    <bib:Report rdf:about="#item_156">
+        <z:itemType>report</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dcterms:alternative>Standards  for Components of British Columbia’s Biodiversity</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Victoria, BC</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Ministry of Sustainable Resource Management</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Resources Information Standards Committee</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_157"/>
+        <dc:title>Aerial-based Inventory Methods for Selected Ungulates: Bison, Mountain Goat, Mountain Sheep, Moose, Elk, Deer and Caribou</dc:title>
+        <dc:date>2002</dc:date>
+        <prism:number>32</prism:number>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_157">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/157/unga_ml20_final.pdf"/>
+        <dc:title>unga_ml20_final.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/nr-laws-policy/risc/unga_ml20_final.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:30:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://mcmc-jags.sourceforge.io/">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plummer</foaf:surname>
+                        <foaf:givenName>Martyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>4-15</prism:edition>
+        <dc:title>rjags: Bayesian Graphical Models using MCMC</dc:title>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://mcmc-jags.sourceforge.io/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:system>JAGS 4.0.0</z:system>
+        <z:programmingLanguage>R</z:programmingLanguage>
+    </bib:Data>
+    <bib:Article rdf:about="#item_160">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1609-395X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plummer</foaf:surname>
+                        <foaf:givenName>Martyn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_159"/>
+        <dc:title>JAGS: A Program for Analysis of Bayesian Graphical Models Using Gibbs Sampling</dc:title>
+        <dcterms:abstract>JAGS is a program for Bayesian Graphical modelling which aims for compatibility with classic BUGS. The program could eventually be developed as an R package. This article explains the motivations for this program, brieﬂy describes the architecture and then discusses some ideas for a vectorized form of the BUGS language.</dcterms:abstract>
+        <dc:date>2003</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1609-395X">
+        <dc:title>Proceedings of the 3rd International Workshop on Distributed Statistical Computing</dc:title>
+        <dcterms:alternative>Proceedings of DSC 2003</dcterms:alternative>
+        <dc:identifier>ISSN 1609-395X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_159">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/159/Plummer - 2003 - JAGS A Program for Analysis of Bayesian Graphical.pdf"/>
+        <dc:title>Plummer - 2003 - JAGS A Program for Analysis of Bayesian Graphical.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.r-project.org/conferences/DSC-2003/Proceedings/Plummer.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-25 19:34:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="#item_161">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vienna, Austria</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>R Foundation for Statistical Computing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>R Core Team</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>R: A Language and Environment for Statistical Computing</dc:title>
+        <dc:date>2023</dc:date>
+    </bib:Data>
+    <bib:Data rdf:about="#item_162">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boston, MA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Posit Software, PBC</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Posit team</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>RStudio: Integrated Development Environment for R</dc:title>
+        <dc:date>2023</dc:date>
+    </bib:Data>
+    <bib:Article rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856970/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0027-3171"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sterba</foaf:surname>
+                        <foaf:givenName>Sonya K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_253"/>
+        <link:link rdf:resource="#item_252"/>
+        <link:link rdf:resource="#item_251"/>
+        <dc:title>Alternative Model-Based and Design-Based Frameworks for Inference From Samples to Populations: From Polarization to Integration</dc:title>
+        <dcterms:abstract>A model-based framework, due originally to R. A. Fisher, and a design-based framework, due originally to J. Neyman, offer alternative mechanisms for inference from samples to populations. We show how these frameworks can utilize different types of samples (nonrandom or random vs. only random) and allow different kinds of inference (descriptive vs. analytic) to different kinds of populations (finite vs. infinite). We describe the extent of each framework's implementation in observational psychology research. After clarifying some important limitations of each framework, we describe how these limitations are overcome by a newer hybrid model/design-based inferential framework. This hybrid framework allows both kinds of inference to both kinds of populations, given a random sample. We illustrate implementation of the hybrid framework using the High School and Beyond data set.</dcterms:abstract>
+        <dc:date>2009-11-1</dc:date>
+        <z:shortTitle>Alternative Model-Based and Design-Based Frameworks for Inference From Samples to Populations</z:shortTitle>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856970/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-26 22:16:17</dcterms:dateSubmitted>
+        <dc:description>PMID: 20411042
+PMCID: PMC2856970</dc:description>
+        <bib:pages>711-740</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0027-3171">
+        <prism:volume>44</prism:volume>
+        <dc:title>Multivariate behavioral research</dc:title>
+        <dc:identifier>DOI 10.1080/00273170903333574</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Multivariate Behav Res</dcterms:alternative>
+        <dc:identifier>ISSN 0027-3171</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_253">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;Generally, terms&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;model-based&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;and&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;design-based&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;refer to approaches to performing&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;u&gt;&lt;span style=&quot;color: var(--theme-link-color, var(--theme-secondary-400))&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Statistical_inference&quot; rel=&quot;noopener noreferrer nofollow&quot;&gt;statistical inference&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/u&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;from data. Since inference implies making conclusions about a population, based on the analysis of a sample,&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;assumptions&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;about an underlying&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;statistical model&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;is what essentially differentiates model-based approach and design-based approach. Despite the presence of the word &quot;model&quot; in one approach and the absence of it in the other, make no mistake: both approaches are based on a notion of statistical model. The&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;key difference&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;is whether a&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;statistical model&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;considered an&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;unknown&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;construct or a&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;known&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;one. In particular, in a model-based approach can be defined as an approach, where statistical model is unknown (hence, the presence of the word &quot;model&quot;, as it's the&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;focus&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;of discovery). Correspondingly, a design-based approach can be defines as one, where statistical model is known and the&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;focus&lt;/span&gt;&lt;/span&gt;&lt;/em&gt;&lt;span style=&quot;color: rgb(12, 13, 14)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;&amp;nbsp;is on a study/experiment design.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_252">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/252/Sterba - 2009 - Alternative Model-Based and Design-Based Framework.pdf"/>
+        <dc:title>PubMed Central Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856970/pdf/nihms-189170.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-26 22:16:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_251">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed Central Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856970/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-01-26 22:16:17</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
